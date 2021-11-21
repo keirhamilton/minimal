@@ -12,12 +12,10 @@ layout: default
 * Cannabis Cultivation
 * Horticultural Science
 * Insect Diagnostics
-* Experimental Design
-* Fertigation
 * Integrated Pest Management (IPM)
 * Cannabis Post-Harvest Processing
 * Cannabinoid Sampling/ Genotyping
-* Cannabis Phenotyping
+* Cannabis Phenotyping & Chemotyping
 * Applied Research
 * Regulatory Cannabis Compliance & Permit Management 
 * Plant Physiology
