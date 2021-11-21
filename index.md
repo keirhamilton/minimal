@@ -23,4 +23,5 @@ layout: default
 * Cannabinoid Sampling/ Genotyping
 * Cannabis Phenotyping
 * Applied Research
-* Regulatory Cannabis Compliance & Permits • Plant Physiology
+* Regulatory Cannabis Compliance & Permit Management 
+* Plant Physiology
