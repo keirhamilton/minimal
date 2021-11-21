@@ -4,9 +4,6 @@ layout: default
 
 **Keir Hamilton, DPM**
 
-    // Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-    // [Link to another page](./another-page.html).
 
 ## Doctor of Plant Medicine (DPM), MS, Certificate: Plant Pest Risk Assessment & Management [PPRAM]
 
@@ -27,12 +24,3 @@ layout: default
 * Cannabis Phenotyping
 * Applied Research
 * Regulatory Cannabis Compliance & Permits • Plant Physiology
-
-
-
-
-        // ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-        // ### Large image
-
-        // ![Branching](https://guides.github.com/activities/hello-world/branching.png)
