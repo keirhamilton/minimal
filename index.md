@@ -5,7 +5,7 @@ layout: default
 **Keir Hamilton, DPM**
 
 
-# Doctor of Plant Medicine (DPM), MS, Certificate: Plant Pest Risk Assessment & Management [PPRAM]
+### Providing Cannabis Consulting, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies.
 
 ## Areas of Expertise:
 
