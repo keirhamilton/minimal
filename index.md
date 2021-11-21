@@ -5,7 +5,7 @@ layout: default
 **Keir Hamilton, DPM**
 
 
-## Doctor of Plant Medicine (DPM), MS, Certificate: Plant Pest Risk Assessment & Management [PPRAM]
+# Doctor of Plant Medicine (DPM), MS, Certificate: Plant Pest Risk Assessment & Management [PPRAM]
 
 ## Areas of Expertise:
 
