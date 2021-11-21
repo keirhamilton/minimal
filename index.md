@@ -6,9 +6,9 @@ layout: default
 
     // Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+    // [Link to another page](./another-page.html).
 
-##
+## Doctor of Plant Medicine (DPM), MS, Certificate: Plant Pest Risk Assessment & Management [PPRAM]
 
 ## Areas of Expertise:
 
@@ -31,8 +31,8 @@ layout: default
 
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+        // ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+        // ![Branching](https://guides.github.com/activities/hello-world/branching.png)
