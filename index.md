@@ -8,8 +8,7 @@ layout: default
 #### Professional Description: 
 **Providing Cannabis Consulting, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies for Cannabis Cultivators**
 
-## Areas of Expertise:
-
+#### Areas of Expertise:
 * Cannabis Cultivation
 * Horticultural Science
 * Insect Diagnostics
