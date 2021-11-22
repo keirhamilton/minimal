@@ -5,7 +5,8 @@ layout: default
 **Keir Hamilton, Doctor of Plant Medicine (DPM)**
 
 
-### Providing Cannabis Consulting, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies.
+### Professional Description: 
+**Providing Cannabis Consulting, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies for Cannabis Cultivators**
 
 ## Areas of Expertise:
 
