@@ -6,10 +6,10 @@ layout: default
 
 
 #### Professional Description: 
-Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies for Cannabis Cultivators
+Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies for Cannabis Cultivators.
 
 #### Areas of Expertise:
-* Cannabis Cuttings Certifications
+* Healthy Cannabis Cuttings Certifications
 * Cannabis Cultivation
 * Horticultural Science
 * Insect Diagnostics
