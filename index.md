@@ -20,5 +20,6 @@ Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest M
 
 
 #### Connect:
+* [Schedule A Consultation Today!](mailto:keirhamilton0@gmail.com)
 * [Shop My Online Store for IPM Socks!](https://www.keirhamilton.xyz)
 * [Connect via LinkedIn!](https://www.linkedin.com/in/keirhamilton/)
