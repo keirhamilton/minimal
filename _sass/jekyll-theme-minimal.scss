@@ -219,8 +219,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:absolute;
-    bottom:0;
+    position:static;
     width:auto;
   }
 
