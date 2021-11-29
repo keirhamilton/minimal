@@ -26,4 +26,4 @@ Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest M
 
 
 #### Photography:
-* <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/194505064@N07/51713203527/in/dateposted-public/" title="cookies"><img src="https://live.staticflickr.com/65535/51713203527_8de36a6d41_k.jpg" width="2048" height="1371" alt="cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+* <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/194505064@N07/51713203527/in/dateposted-public/" title="cookies"><img src="https://live.staticflickr.com/65535/51713203527_0dc65eac73_c.jpg" width="800" height="536" alt="cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
