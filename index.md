@@ -17,3 +17,6 @@ Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest M
 * Plant Pathology
 * Cannabis Phenotyping & Chemotyping
 * Plant Physiology
+
+
+
