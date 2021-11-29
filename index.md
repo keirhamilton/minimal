@@ -19,4 +19,6 @@ Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest M
 * Plant Physiology
 
 
-
+#### Connect:
+* [Shop My Online Store for IPM Socks!](https://www.keirhamilton.xyz)
+* [Connect via LinkedIn!](https://www.linkedin.com/in/keirhamilton/)
