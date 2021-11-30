@@ -23,6 +23,3 @@ Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest M
 * [Schedule A Consultation Today!](mailto:keirhamilton0@gmail.com)
 * [Shop My Online Store for IPM Socks & More!](https://www.keirhamilton.xyz)
 * [Connect via LinkedIn!](https://www.linkedin.com/in/keirhamilton/)
-
-#### Venmo:
-<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/194505064@N07/51713675977/in/dateposted-public/" title="MyVenmoQRCode"><img src="https://live.staticflickr.com/65535/51713675977_95870736cc.jpg" width="258" height="500" alt="MyVenmoQRCode"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
