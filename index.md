@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+**Hamilton Diagnostic Services 
 
 **Keir Hamilton, Doctor of Plant Medicine (DPM)**
 
 
 #### Professional Description: 
-Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies for Cannabis Cultivators.
+Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest Management (IPM) Programs, and Plant Pathology Management Strategies for Cannabis Cultivation Facilities.
 
 #### Areas of Expertise:
 * Healthy Cannabis Cuttings Certifications
