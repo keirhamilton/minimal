@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Hamilton Diagnostic Services 
+**Hamilton Diagnostic Services** 
 
 **Keir Hamilton, Doctor of Plant Medicine (DPM)**
 
