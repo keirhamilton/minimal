@@ -15,7 +15,7 @@ Providing Healthy Cannabis Cuttings/ Clones Consultations, Specialized Integrate
 * Horticultural Science
 * Insect Diagnostics
 * Integrated Pest Management (IPM) Programs
-* Plant Pathology
+* Plant Disease Diagnostics
 * Cannabis Phenotyping & Chemotyping
 * Plant Physiology
 * Diagnostic Reports
