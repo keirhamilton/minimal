@@ -19,6 +19,8 @@ Providing Healthy Cannabis Cuttings Consultations, Specialized Integrated Pest M
 * Cannabis Phenotyping & Chemotyping
 * Plant Physiology
 
+#### Clients:
+* [Rev Genomics](https://www.revgenomics.com/)
 
 #### Connect:
 * [Schedule A Consultation Today!](https://form.jotform.com/213345885624159)
