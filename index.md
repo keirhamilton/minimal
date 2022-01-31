@@ -17,8 +17,9 @@ Providing Healthy Cannabis Cuttings/ Clones Consultations, Specialized Integrate
 * Integrated Pest Management (IPM) Programs
 * Plant Disease Diagnostics
 * Cannabis Phenotyping & Chemotyping
-* Plant Physiology
+* Plant Physiological Disorders
 * Diagnostic Reports
+* Microscopy
 
 #### Clients:
 * [Rev Genomics](https://www.revgenomics.com/)
