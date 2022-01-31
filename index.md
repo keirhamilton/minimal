@@ -18,6 +18,7 @@ Providing Healthy Cannabis Cuttings/ Clones Consultations, Specialized Integrate
 * Plant Pathology
 * Cannabis Phenotyping & Chemotyping
 * Plant Physiology
+* Diagnostic Reports
 
 #### Clients:
 * [Rev Genomics](https://www.revgenomics.com/)
